@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather WakeUp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="SetNewAlarm">Set New Alarm</string>
+    <string name="CurrentAlarmTime">Current Alarm Time</string>
+    <string name="CurrentZipCode">Current Zip Code</string>
+    <string name="EnterAlarmTime">Enter Alarm Time</string>
+    <string name="Set">Set</string>
+    <string name="SetIPAddress">Set IP Address</string>
+    <string name="SetPort">Set Port</string>
+    <string name="TurnOffAlarm">Turn Off Alarm</string>
+    <string name="WakeUp">Wake Up</string>
+
+</resources>
