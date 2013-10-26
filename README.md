@@ -1,8 +1,6 @@
 WeatherAlarmv2
 ==============
 
-Weather Alarm App v2
---------------------
 Contributor: Erik Wenkel
 
 Source: https://github.com/hessionb/WeatherAlarmv2
@@ -11,8 +9,8 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-D
-escription
+
+Description
 -----------
 
 This Andriod Application was designed to display the current weather and temperature at a the current location when an alarm goes off. It was designed so that when you wake up due to an alarm you are automatically given the weather.
